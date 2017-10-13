@@ -2,7 +2,6 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import StudentTable from './StudentTable';
 import StudentForm from './StudentForm';
-import StudentPerfomance from './StudentPerfomance';
 import sortBy from "lodash/sortBy"
 
 class Students extends React.Component {
